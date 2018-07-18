@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "flow": "flow"
+  },
+  "author": "R. Mark Volkmann <r.mark.volkmann@gmail.com> (https://mvolkmann.github.io/)",
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.76.0"
+  }
+}
